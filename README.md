@@ -28,5 +28,12 @@ about.m/.fig: Contains the about window GUI
 
 instruct.m/.fig: Contains the instruction window GUI
 
-nmr_print.m: Contains the main functions including the data preparation code, and some third party codes dependencies.
+nmr_print.m: Contains the main functions including the data preparation code, and some third party codes dependencies including the folloing  
+
+Stlwrite - write ASCII or Binary STL files, MATLAB Central File Exchange, https://www.mathworks.com/matlabcentral/fileexchange/20922-stlwrite-write-ascii-or-binary-stl-files Retrieved June 3, 2020.
+
+and 
+
+Surf2solid - make a solid volume from a surface for 3D printing, MATLAB Central File Exchange, https://www.mathworks.com/matlabcentral/fileexchange/42876-surf2solid-make-a-solid-volume-from-a-surface-for-3d-printing accessed 3rd June 2020.
+
 
