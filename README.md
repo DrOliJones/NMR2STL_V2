@@ -6,7 +6,7 @@ This is an initial version of the program for testing, and the application still
 
 •	Your TOPSPIN raw data should be 2048x2048 points (seems to be the default export size for TOPSPIN). For other sizes, you will need to modify the code to the correct size (this information is usually included in the topspin ext export). Auto detection will be added in the future.
 
-•	At present the code has only been tested with Windows and with Bruker (TOPSPIN) data.
+•	At present the code has only been tested with Windows and with Bruker (TOPSPIN) data. It should work on Mac with Bruker data as well but this is not guarenteed.
 
 To Install:
 
