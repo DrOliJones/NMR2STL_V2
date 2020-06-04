@@ -9,6 +9,7 @@ This is an initial version of the program for testing, and the application still
 •	At present the code has only been tested with Windows and with Bruker (TOPSPIN) data.
 
 To Install:
+
 •	Move all files to a folder of your choice and navigate to this folder in MATLAB.
 
 •	Run gui.m in the MATLAB editor to launch the GUI
