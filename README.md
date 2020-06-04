@@ -28,7 +28,7 @@ about.m/.fig: Contains the about window GUI
 
 instruct.m/.fig: Contains the instruction window GUI
 
-nmr_print.m: Contains the main functions including the data preparation code, and some third party codes dependencies including the folloing  
+nmr_print.m: Contains the main functions including the data preparation code, and some third party codes dependencies including the following  
 
 Stlwrite - write ASCII or Binary STL files, MATLAB Central File Exchange, https://www.mathworks.com/matlabcentral/fileexchange/20922-stlwrite-write-ascii-or-binary-stl-files Retrieved June 3, 2020.
 
