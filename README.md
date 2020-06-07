@@ -18,7 +18,8 @@ To Install:
 
 •	Change the size and averaging parameters
 
-•	Press Process to generate the preview and STL file
+•	Press Process to generate the preview and STL file. The stl file can then be taken to a 3D printer but may need further optimsation to print effectivly. This could be thickening of the walls and/or adding a base to the model. Free software such as Meshmixer can be used to do this.
+
 
 
 File Description:
