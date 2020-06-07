@@ -26,6 +26,7 @@ To Install:
 --
 
 File Description:
+
 gui.m/.fig: Contains the GUI and is the entry point for the code.
 
 about.m/.fig: Contains the about window GUI
