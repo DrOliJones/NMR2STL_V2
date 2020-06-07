@@ -10,7 +10,9 @@ This is an initial version of the program for testing, and the application still
 
 To Install:
 
-•	Move all files to a folder of your choice and navigate to this folder in MATLAB.
+•	Download the files from this repository and move all files in this to a folder of your choice.
+
+•	Navigate to this folder in MATLAB.
 
 •	Run gui.m in the MATLAB editor to launch the GUI
 
