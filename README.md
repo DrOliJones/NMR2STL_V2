@@ -2,7 +2,7 @@
 
 MATLAB code to convert 2D NMR files into the STL format suitable for 3D printing.
 
-This is an initial version of the program for testing, and the application still has some limitations.
+This is an initial version of the program for testing, and the application still has some limitations. If you use the code please quote the paper at https://pubs.acs.org/doi/10.1021/acs.jchemed.0c01130 (O.A.H. Jones et al., Using 3D Printing to Visualize 2D Chromatograms and NMR Spectra for the Classroom, Journal of Chemical Education, 2021).
 
 •	Your TOPSPIN raw data should be 2048x2048 points (seems to be the default export size for TOPSPIN). For other sizes, you will need to modify the code to the correct size (this information is usually included in the topspin ext export). Auto detection will be added in the future.
 
