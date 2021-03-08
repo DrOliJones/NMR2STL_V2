@@ -1,6 +1,6 @@
 # NMR2STL_V2
 
-MATLAB code to convert 2D NMR files into the STL format suitable for 3D printing.
+MATLAB code to convert 2D NMR files into the STL format suitable for 3D printing. See bottom of page for file description
 
 This is an initial version of the program for testing, and the application still has some limitations. If you use the code please quote the paper at https://pubs.acs.org/doi/10.1021/acs.jchemed.0c01130 (O.A.H. Jones et al., Using 3D Printing to Visualize 2D Chromatograms and NMR Spectra for the Classroom, Journal of Chemical Education, 2021).
 
@@ -16,11 +16,11 @@ To Install:
 
 •	Run gui.m in the MATLAB editor to launch the GUI
 
-•	Select your TOPSPIN file with the browse file
+•	Select your TOPSPIN file with the browse file option
 
 •	Change the size and averaging parameters
 
-•	Press Process to generate the preview and STL file. The stl file can then be taken to a 3D printer but may need further optimsation to print effectivly. This could be thickening of the walls and/or adding a base to the model. Free software such as Meshmixer can be used to do this.
+•	Press Process to generate the preview and STL file. The stl file can then be taken to a 3D printer but may need further optimsation to print effectivly. This could be thickening of the walls and/or adding a base to the model. Free software such as Meshmixer can be used to do this (further info below).
 
 --
 
